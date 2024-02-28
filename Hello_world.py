@@ -1,0 +1,2 @@
+a = "Ayaan"
+print(a)
